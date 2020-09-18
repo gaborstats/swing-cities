@@ -1,5 +1,5 @@
 # swing-cities
-This project estimated the size of West Coas Swing (WCS) communities in major European cities by scraping the total number of members of WCS groups on Facebook in the respective cities.
+This project estimated the size of West Coast Swing (WCS) communities in major European cities by scraping the total number of members in local WCS groups on Facebook.
 
 The scripts do the following:
 
