@@ -3,6 +3,6 @@ This project estimated the size of West Coas Swing (WCS) communities in major Eu
 
 The scripts do the following:
 
-01_city-geodata: gets the geodata of major European cities from Wikipedia
-02_wcs-members: scrapes the number of members of public WCS groups on Facebook in the given cities
+01_city-geodata: gets the geodata of major European cities from Wikipedia  
+02_wcs-members: scrapes the number of members of public WCS groups on Facebook in the given cities  
 03_map: vizualises the group sizes on a map
