@@ -6,3 +6,5 @@ The scripts do the following:
 - 01_city-geodata: gets the geodata of major European cities from Wikipedia  
 - 02_wcs-members: scrapes the number of members of public WCS groups on Facebook in the given cities  
 - 03_map: visualizes the group sizes on a map
+
+Interactive visualization of the results is available here: https://public.tableau.com/views/WCS-cities/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
